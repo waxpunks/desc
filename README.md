@@ -13,7 +13,7 @@ Welcome to the Wax Punks Social Media Handles repository! This repository contai
 - Reddit: [r/WaxPunks](https://www.reddit.com/r/WaxPunksio)
 
 ## Community Channels
-- Medium: [Wax Punks on Medium](https://medium.com/waxpunks)
+- Medium: [Wax Punks on Medium](https://medium.com/waxpunksio)
 - YouTube: [Wax Punks Official Channel](https://www.youtube.com/c/waxpunks)
 - Discord: [Wax Punks Discord Server](https://discord.com/invite/NX5qNtxc)
 
