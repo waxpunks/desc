@@ -8,7 +8,7 @@ Welcome to the Wax Punks Social Media Handles repository! This repository contai
 ## Social Media Handles
 - Twitter: [@waxpunks](https://twitter.com/WaxPunksio)
 - Instagram: [@waxpunks](https://www.instagram.com/waxpunksio)
-- Discord: [Wax Punks Discord Server](https://discord.com/invite/NX5qNtxc)
+- Discord: [Wax Punks Discord Server](https://discord.gg/WVHXM2Q3Nv)
 - Linktree: [Wax Punks Linktree](https://linktr.ee/waxpunks)
 - Reddit: [r/WaxPunks](https://www.reddit.com/r/WaxPunksio)
 
